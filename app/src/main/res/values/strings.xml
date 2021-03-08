@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebApi</string>
+    <string name="done_send">Данные успешно отправлены</string>
+    <string name="not_done_send">Данные не отправились, попробуйте снова</string>
+    <string name="download">Загрузить таблицу</string>
+    <string name="send_data">Отправить</string>
+</resources>
